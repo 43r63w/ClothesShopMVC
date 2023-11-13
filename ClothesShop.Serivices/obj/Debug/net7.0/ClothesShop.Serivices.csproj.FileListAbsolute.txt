@@ -1,0 +1,12 @@
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\bin\Debug\net7.0\ClothesShop.Serivices.deps.json
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\bin\Debug\net7.0\ClothesShop.Serivices.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\bin\Debug\net7.0\ClothesShop.Serivices.pdb
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.AssemblyInfoInputs.cache
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.AssemblyInfo.cs
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.csproj.CoreCompileInputs.cache
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\refint\ClothesShop.Serivices.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.pdb
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ref\ClothesShop.Serivices.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Serivices\obj\Debug\net7.0\ClothesShop.Serivices.csproj.AssemblyReference.cache

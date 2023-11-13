@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClothesShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ClothesShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product-3\\ab3c86dd-5ae2-4db3-8f28-3a4ec4dfcd32.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\ab3c86dd-5ae2-4db3-8f28-3a4ec4dfcd32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product-3\\d10996f7-e510-42fc-be57-cd04246b7ff5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\d10996f7-e510-42fc-be57-cd04246b7ff5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product10\\ad11b9a2-2a33-4db9-acb6-dfdb42072a9c.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product10\\ad11b9a2-2a33-4db9-acb6-dfdb42072a9c.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product11\\04596412-823a-4570-a2fc-79a1bc09181d.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product11\\04596412-823a-4570-a2fc-79a1bc09181d.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product11\\7adca282-38b7-42af-a3e6-94d9607254aa.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product11\\7adca282-38b7-42af-a3e6-94d9607254aa.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product12\\50d80b6b-77e2-4395-9f8d-0949a8184698.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product12\\50d80b6b-77e2-4395-9f8d-0949a8184698.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product12\\fc64a0dc-e766-4901-aa0f-1850a6b56118.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product12\\fc64a0dc-e766-4901-aa0f-1850a6b56118.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product13\\b4c161a0-cff5-4076-913d-240bf79b86a4.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product13\\b4c161a0-cff5-4076-913d-240bf79b86a4.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\07f635e5-ba55-469d-b087-b80c8dd6aaf1.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\07f635e5-ba55-469d-b087-b80c8dd6aaf1.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\1cc0a61c-9d0a-4566-9bdb-e532c526f11e.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\1cc0a61c-9d0a-4566-9bdb-e532c526f11e.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\2d4d0368-33cc-4397-a8a9-6c20058465a3.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\2d4d0368-33cc-4397-a8a9-6c20058465a3.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\4aedf997-e5e0-477b-ae82-ab818ff99f83.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\4aedf997-e5e0-477b-ae82-ab818ff99f83.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\4cf9dc5a-7c72-4de1-8fdf-93cd0182ee11.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\4cf9dc5a-7c72-4de1-8fdf-93cd0182ee11.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\763d1610-5c38-4020-aec4-92a05e622f25.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\763d1610-5c38-4020-aec4-92a05e622f25.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\79f43e6f-a400-4ef4-81f7-d7924220571c.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\79f43e6f-a400-4ef4-81f7-d7924220571c.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\80febdb3-3921-483c-b765-160c44711a99.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\80febdb3-3921-483c-b765-160c44711a99.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\89ba1b9b-2f3f-46ea-8d94-091f36c716cb.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\89ba1b9b-2f3f-46ea-8d94-091f36c716cb.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\95d57b9b-9e4e-4b87-9cc5-2cc32845deb2.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\95d57b9b-9e4e-4b87-9cc5-2cc32845deb2.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\b8103f02-db9c-4134-85f4-fede910c5573.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\b8103f02-db9c-4134-85f4-fede910c5573.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product1\\ec62c84e-cc45-4fbc-a308-a34290ff8bb9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product1\\ec62c84e-cc45-4fbc-a308-a34290ff8bb9.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\0c6c5218-0e76-4ecd-a587-10b10a3c16ab.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\0c6c5218-0e76-4ecd-a587-10b10a3c16ab.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\1235be85-0d6a-455e-b0b1-384330634dfc.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\1235be85-0d6a-455e-b0b1-384330634dfc.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\1c9ed996-33f8-4b76-abda-fa448e646f9d.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\1c9ed996-33f8-4b76-abda-fa448e646f9d.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\50641905-ca46-4877-8ca2-6fbe50e6ce81.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\50641905-ca46-4877-8ca2-6fbe50e6ce81.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\9ec561b2-742f-499b-b44f-554f29b57415.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\9ec561b2-742f-499b-b44f-554f29b57415.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product2\\ce9a16c2-594a-4a71-9933-9c3146a87bfd.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product2\\ce9a16c2-594a-4a71-9933-9c3146a87bfd.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\47c2087c-ebf6-4163-b967-abe0a4d13729.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\47c2087c-ebf6-4163-b967-abe0a4d13729.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\5d30a7dd-ea6f-401a-b0c3-792a812569e1.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\5d30a7dd-ea6f-401a-b0c3-792a812569e1.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\854fa9ba-b2b9-41dc-8b7c-60032aa0ea40.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\854fa9ba-b2b9-41dc-8b7c-60032aa0ea40.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\922fc8c7-d60c-4d4e-8f38-6b437bbf9ed9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\922fc8c7-d60c-4d4e-8f38-6b437bbf9ed9.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\a48c7883-020a-404d-8bc6-bc85cba5f997.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\a48c7883-020a-404d-8bc6-bc85cba5f997.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product3\\dd49d178-3c6c-4965-b34b-52eddcc56123.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product3\\dd49d178-3c6c-4965-b34b-52eddcc56123.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product4\\94fddd63-dbfc-4230-ba59-17af6f18ba82.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product4\\94fddd63-dbfc-4230-ba59-17af6f18ba82.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product4\\bfd9eca3-5657-4ea4-8eea-af9c65a1221b.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product4\\bfd9eca3-5657-4ea4-8eea-af9c65a1221b.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product4\\df269dca-dab7-4600-8946-cf367f8629d3.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product4\\df269dca-dab7-4600-8946-cf367f8629d3.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product4\\fed550ea-eac4-4c87-8a6c-2a5e947270fd.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product4\\fed550ea-eac4-4c87-8a6c-2a5e947270fd.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product5\\3acc03cd-7f5f-4a8a-9668-1c06663cbd05.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product5\\3acc03cd-7f5f-4a8a-9668-1c06663cbd05.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product5\\7e3ce4f7-ea16-41a7-a4a4-4c2a2b7b9dd8.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product5\\7e3ce4f7-ea16-41a7-a4a4-4c2a2b7b9dd8.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product6\\718fd85c-512e-43f3-b23e-b14f2c232275.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product6\\718fd85c-512e-43f3-b23e-b14f2c232275.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product6\\8facc340-33e5-4f8a-9a51-79e6efce7814.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product6\\8facc340-33e5-4f8a-9a51-79e6efce7814.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product7\\665995a4-45fd-4da3-9813-855294695d72.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product7\\665995a4-45fd-4da3-9813-855294695d72.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product7\\6d761583-4caf-4109-92d6-855ae367b87b.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product7\\6d761583-4caf-4109-92d6-855ae367b87b.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product7\\c1aabe21-8130-4a30-b83e-ff65aa15888a.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product7\\c1aabe21-8130-4a30-b83e-ff65aa15888a.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product7\\c410bfd1-e665-4161-9ef6-fa3468379a38.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product7\\c410bfd1-e665-4161-9ef6-fa3468379a38.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product8\\47b2e1e5-6d44-4aea-b460-7e7b011078f9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product8\\47b2e1e5-6d44-4aea-b460-7e7b011078f9.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\images\\products\\product9\\f558a0c3-fb74-47cd-b3ab-ba2aa4fc7814.webp",
+      "PackagePath": "staticwebassets\\images\\products\\product9\\f558a0c3-fb74-47cd-b3ab-ba2aa4fc7814.webp"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\js\\order4.js",
+      "PackagePath": "staticwebassets\\js\\order4.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\js\\user1.js",
+      "PackagePath": "staticwebassets\\js\\user1.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\vladt\\source\\repos\\ClothesShop\\ClothesShop\\wwwroot\\shopping.png",
+      "PackagePath": "staticwebassets\\shopping.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ClothesShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ClothesShop.props",
+      "PackagePath": "build\\ClothesShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ClothesShop.props",
+      "PackagePath": "buildMultiTargeting\\ClothesShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ClothesShop.props",
+      "PackagePath": "buildTransitive\\ClothesShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

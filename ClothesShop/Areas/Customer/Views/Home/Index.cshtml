@@ -1,0 +1,154 @@
+﻿@model List<ProductClothes>
+
+@{
+
+    var category = Context.Request.Query["category"];
+    var jackets = "text-primary";
+    var downJackets = "text-primary";
+    var longsleeves = "text-primary";
+    var sweatshirts = "text-primary";
+    var hoodie = "text-primary";
+    var pants = "text-primary";
+    var tShirt = "text-primary";
+    var shorts = "text-primary";
+    var sportsPants = "text-primary";
+    var all = "text-primary";
+
+    switch (category)
+    {
+        case "jackets":
+            jackets = "active text-white bg-primary";
+            break;
+        case "downJackets":
+            downJackets = "active text-white bg-primary";
+            break;
+        case "longsleeves":
+            longsleeves = "active text-white bg-primary";
+            break;
+        case "sweatshirts":
+            sweatshirts = "active text-white bg-primary";
+            break;
+        case "hoodie":
+            hoodie = "active text-white bg-primary";
+            break;
+        case "pants":
+            pants = "active text-white bg-primary";
+            break;
+        case "tShirt":
+            tShirt = "active text-white bg-primary";
+            break;
+        case "shorts":
+            shorts = "active text-white bg-primary";
+            break;
+        case "sportsPants":
+            sportsPants = "active text-white bg-primary";
+            break;
+        default:
+            all = "active text-white bg-primary";
+            break;
+
+    }
+}
+
+<div class="d-flex justify-content-center pb-5 pt-5">
+    <span></span>
+    <ul class="list-group list-group-horizontal-sm">
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="jackets">
+        <li class="list-group-item  @jackets">Куртки</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="downJackets">
+        <li class="list-group-item @downJackets">Пуховики</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="longsleeves">
+        <li class="list-group-item @longsleeves">Лонгсліви</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="sweatshirts">
+        <li class="list-group-item @sweatshirts">Світшоти</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="hoodie">
+        <li class="list-group-item  @hoodie">Худі</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="pants">
+        <li class="list-group-item @pants ">Штани</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="tShirt">
+        <li class="list-group-item  @tShirt">Футболки</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="shorts">
+        <li class="list-group-item  @shorts">Шорти</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="sportsPants">
+        <li class="list-group-item  @sportsPants">Спортивні штани</li>
+        </a>
+        <a style="text-decoration:none;" asp-controller="Home" asp-action="Index" asp-route-category="all">
+        <li class="list-group-item @all">Усі</li>
+        </a>
+    </ul>
+</div>
+
+
+
+
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3  rounded">
+                        @if (product.ProductImages != null && product.ProductImages.Count() > 0)
+                        {
+                            <img src="@product.ProductImages.FirstOrDefault().ImageUrl" class="card-img-top" />
+                        }
+                        else
+                        {
+                            <img src="https://placehold.co/500x600/png" class="card-img-top rounded" />
+                        }
+
+                        <div class="card-body pb-0">
+                            <div class="pl-1">
+                                <p class="card-title h5 text-dark opacity-75 text-lowercase text-center">@product.Name</p>
+                                <p class="card-title text-warning text-center">by <b>@product.Brand</b></p>
+                            </div>
+                            @if (product.IsDiscount == true)
+                            {
+                                <div class="pl-1">
+                                    <p class="text-dark text-opacity-75 text-center mb-0">
+                                        <span class="bg-danger text-white top-1 start-100 translate-middle-y badge rounded">Знижка</span>
+                                        <span class="">
+                                            @product.PriceForSale.ToString("c")
+                                        </span>
+                                    </p>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="pl-1">
+                                    <p class="text-dark text-opacity-75 text-center mb-0">
+                                        <span class="">
+                                            @product.Price.ToString("c")
+                                        </span>
+                                    </p>
+                                </div>
+                            }
+
+                        </div>
+                        <div class="col-6 col-sm-4 col-lg-6 pt-2">
+                            <div class="w-50 btn-group" role="group">
+                                <a asp-area="Customer" asp-controller="Home" asp-action="AddToWishlist" asp-route-productId="@product.Id" class="btn btn-outline-primary bg-gradient py-2">
+                                    <i class="bi bi-heart"></i>
+                                </a>
+                                <a asp-action="Details" asp-route-productId="@product.Id" class="btn btn-primary bg-black py-2">
+                                    Детальніше
+                                </a> &nbsp;
+                                <a asp-action="AddToCart" asp-route-productId="@product.Id" class="btn btn-outline-primary bg-gradient py-2">
+                                    <i class="bi bi-plus-square"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,110 @@
+﻿@model ProductVM
+
+
+<div class="card shadow border-0 my-4">
+    <div class="card-header bg-black  bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2"> @(Model.ProductClothes.Id != 0 ? "Оновити" : "Створити") Продукт</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" class="row" enctype="multipart/form-data">
+            <input asp-for="ProductClothes.Id" hidden />
+            <div class="row">
+                <div class="col-10">
+                    <div class="border p-3">
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ProductClothes.Name" class="form-control border-0 shadow" />
+                            <label asp-for="ProductClothes.Name" class="ms-2"></label>
+                            <span asp-validation-for="ProductClothes.Name" class="text-danger"></span>
+                        </div>
+                        <div class="py-2 col-12">
+                            <label asp-for="ProductClothes.Description" class="ms-2 text-muted"></label>
+                            <textarea asp-for="ProductClothes.Description" class="form-control border-0 shadow"></textarea>
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ProductClothes.Price" class="form-control border-0 shadow" />
+                            <label asp-for="ProductClothes.Price" class="ms-2"></label>
+                            <span asp-validation-for="ProductClothes.Price" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ProductClothes.Brand" class="form-control border-0 shadow" />
+                            <label asp-for="ProductClothes.Brand" class="ms-2"></label>
+                            <span asp-validation-for="ProductClothes.Brand" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <label asp-for="ProductClothes.IsDiscount" class="ms-1">Врахувати знижку?</label>
+                            <input asp-for="ProductClothes.IsDiscount" class="form-check-input" />
+                        </div>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="ProductClothes.PriceForSale" class="form-control border-0 shadow" />
+                            <label asp-for="ProductClothes.PriceForSale" class="ms-2"></label>
+                            <span asp-validation-for="ProductClothes.Price" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-floating py-2 col-12">
+                            <select asp-for="@Model.ProductClothes.CategoryClothesId" asp-items="@Model.CategoryClothesList" class="form-select border-0 shadow">
+                                <option disabled selected>--Обрати категорію--</option>
+                            </select>
+                            <label asp-for="ProductClothes.CategoryClothesId" class="ms-2"></label>
+                            <span asp-validation-for="ProductClothes.CategoryClothes" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input type="file" name="files" class="form-control border-0 shadow" multiple />
+                            <label class="ms-2">Оберіть фото</label>
+                        </div>
+                        <div class="row pt-2">
+                            <div class="col-6 col-md-3">
+                                @if (Model.ProductClothes.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Оновити</button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-primary form-control">Створити</button>
+                                }
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary border  form-control">
+                                    До списку
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">
+                    @if (Model.ProductClothes.ProductImages != null)
+                    {
+                        foreach (var image in Model.ProductClothes.ProductImages)
+                        {
+                            <div class="border p-1 m-2 text-center">
+                                <img src="@image.ImageUrl" width="100%"
+                                     alt="productPhoto" style="border-radius:5px; border:1px solid dashed" />
+                                <a asp-action="DeleteImage" class="btn btn-danger" asp-route-imageId="@image.Id">
+                                    <i class="bi bi-trash-fill"></i> Видалити
+                                </a>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+}

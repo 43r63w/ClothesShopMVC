@@ -1,0 +1,12 @@
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\bin\Debug\net7.0\ClothesShop.Entities.deps.json
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\bin\Debug\net7.0\ClothesShop.Entities.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\bin\Debug\net7.0\ClothesShop.Entities.pdb
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.csproj.AssemblyReference.cache
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.AssemblyInfoInputs.cache
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.AssemblyInfo.cs
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\refint\ClothesShop.Entities.dll
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ClothesShop.Entities.pdb
+C:\Users\vladt\source\repos\ClothesShop\ClothesShop.Entities\obj\Debug\net7.0\ref\ClothesShop.Entities.dll
